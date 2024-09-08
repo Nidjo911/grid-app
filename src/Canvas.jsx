@@ -12,8 +12,6 @@ export default function MyCanvas() {
         ctx.fillStyle = 'blue';
         ctx.fillRect(10, 10, 100, 100);
 
-        /* ctx.fillStyle = 'blue';
-    ctx.fillRect(10, 10, 100, 100); */
     }, []);
     return (
         <div>
